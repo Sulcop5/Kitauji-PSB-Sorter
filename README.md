@@ -24,8 +24,10 @@
   1. 按照字母顺序排序
   2. 按照自定义顺序排序
   3. 按照图片数量排序
-
 - **主题管理**：支持三种主题：Mizore、Light、Dark 和自定义字体管理，推荐 [975 Maru](https://github.com/lxgw/975Yuan) 字体的 Regular 字重。
+
+<img width="1752" height="1101" alt="Mizore Sorter" src="https://github.com/user-attachments/assets/43701ef9-f7b0-445d-b2b6-52fade58a3f8" />
+
 
 ### ☂️ Nozomi Viewer：图片浏览器
 
@@ -34,6 +36,9 @@
 - **分页加载**：画廊模式下采用分批加载机制，避免大文件夹卡顿。
 - **双模式切换**：支持在“画廊”和“单图”模式之间无缝切换。
 - **快速纠错功能**：在看图时如果发现分错类的图片，可以通过侧边栏直接将其移动到正确的分类中，面板数据会自动更新。
+
+<img width="1342" height="879" alt="Nozomi Viewer" src="https://github.com/user-attachments/assets/c563a65b-31e6-4709-bb93-b7047e9406a3" />
+
 
 ---
 
